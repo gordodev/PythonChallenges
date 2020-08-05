@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 #Program to find the first "1" in a list of randomly generated numbers
-#This loop has a bug. There is some strange behavior. Should just show number and where the one is.
+#This loop has a bug. There is some strange behavior. Should just show number and where the one is. One at time and consistently.
 
 import random
 import time
